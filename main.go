@@ -45,6 +45,7 @@ func main() {
 
 var (
 	radius   float64 = (640 + 480) / 2
+	// TODO: below should be a non-static irrational value
 	rotSpeed         = 0.00275
 	armLen   float64 = (640 + 480) / 10
 )
